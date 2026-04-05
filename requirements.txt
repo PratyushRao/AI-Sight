@@ -1,0 +1,12 @@
+scipy
+matplotlib
+tqdm
+onnx 
+onnxruntime
+ultralytics 
+opencv-python 
+pyttsx3 
+numpy 
+torch 
+torchvision
+timm
